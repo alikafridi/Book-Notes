@@ -33,6 +33,8 @@
 - The 7 Day Startup by Dan Norris
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - Beyond The Blog: Brad Feld's Burning Entrepreneur: How to Launch, Fund, and Set
+- Tao Te Ching
+- The Alchemist
 - The Study Quran: A New Translation and Commentary by Seyyed Hossein Nasr
 
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
