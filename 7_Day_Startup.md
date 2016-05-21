@@ -18,7 +18,7 @@ _"You don't learn until you launch"_
 
 The author failed with his first few startups. Spent too much time trying to build businesses that never launched or grew too slowly.
 
-With his first successful startup, WP Curve, he avoided missteps from his previous startups and launched in 7 days. The missteps he avoided included:
+With his first successful startup, _WP Curve_, he avoided missteps from his previous startups and launched in 7 days. The missteps he avoided included:
 
 - Sexy ideas
 - His own failures (forget about them, you can't worry about it now)
@@ -30,9 +30,11 @@ With his first successful startup, WP Curve, he avoided missteps from his previo
 
 
 
+
+
 #### What is a startup
 
-A business is anything derives a wage for it founder. A startup however is more exciting and has:
+A business just derives a wage for it founder. A startup however is more exciting and has:
 
 1. High impact potential
 2. High levels of innovation
@@ -112,5 +114,37 @@ Schedule
 
 
 
+
 #### Day 1 - The 9 Elements of a Great Bootstrap Business
+
+1. **Enjoyable daily tasks** - Pick a business that you would enjoy building out. It'll keep you motivated.
+2. **Product/Founder fit** 
+3. **Scalable Business model** - Must be something that can grow into a large company and you have the ability to grow the business month over month. SaaS businesses are much easier to grow revenues with. 
+4. **Operates profitability without the founder** - Build something where you can later hire staff or systems to replace you and you can maintain profitability
+5. **An asset you can sell** - Create something that adds real value to customers
+6. **Large market potential** 
+7. **Tap into pain or pleasure differentiators**
+8. **Unique lead generation advantage** - how are you going to generate customer leads for your business in a differentiated way from competitors?
+9. **Ability to launch quickly** - choose something you can launch and modify quickly. Once you're getting data from paying customers you can iterate to get the product right.
+
+Choose a business that meets these criteria. You can always tweak the idea later, but if your idea doesn't meet the criteria above it will be a hard problem to solve.
+
+Other things to consider:
+
+- _Don't pick low-hanging fruit_ - Creating a startup means creating real value for customers. Don't get caught up in get-rich schemes or attempts to make a passive income.
+  - _"We are talking about launching a real startup here. Something that gives you a purpose, creates something original in the world, and builds long term value. You need to think about how you can truly create something."_
+- _Don't try to be Steve Jobs_ - Don't let your creative side take over your entrepreneurial side. Create a product that people wnt and sell it to them
+  - _"Playing the visionary is a privelege reserved for second- and third-time entrepreneurs. It's fun, but it's fraught with danger."_
+
+For your first startup, the best way to go about it is:_"Solve problems where people are already paying for solutions"_
+
+_"Everyone might be saying that your idea is great, but look at whether or not they are currently paying for a solution to the same problem"_ 
+
+##### Day 1 Task: 
+
+- Brainstorm a bunch of ideas and evaluate them against the criteria. Choose the idea that stands out as being the best option for you. 
+
+
+
+#### Day 2 - WTF is an MVP
 
