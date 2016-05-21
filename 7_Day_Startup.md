@@ -80,11 +80,37 @@ If one or more of Idea, Execution or Hustle aren't you, then find a cofounder to
 
 _"There is a very big difference between someone entering their email and someone paying you each month for a product"_
 
-Validation Techniques that don't really work:
+##### Work More Efficiently
 
-- Validation doesn't work well when the answer isn't an obvious "YES"
-- Email Opt-In/Beta Signup totals do not indicate purchase intent
-- People saying "It's a Good Idea" doesn't mean that it is
-- Coverage in Tech Press won't necessarily work
-- Targeted surveys don't work
-- Pre-Selling is a flawed
+_"It's proven in research. You work more efficiently when you are close to a deadline. If you are a long way out, you make tasks up that you think are important. As a result, you don't get any of the important work done."_
+
+_"Before you start a task, your brain visualizes the hardest parts to come. It then tries to simulate real work by focusing on small mindless tasks. In other words, you spend hours and days fussing over logos and website copy instead of selling your product"_
+
+_"… entrepreneurs are rarely the investors who came up with breakthrough technologies. Instead, they are people who took a small problem and worked it to death until they found a solution that gained traction."_
+
+_"If you have a conversation with a friend about your business idea this month, and next month you are having the same conversation, you are a wantrapreneur"_ 
+
+##### But 7 Days isn't enough
+
+_"You can't deliver on your whole grand vision, but you can launch something. When you do, you can start talking to people who are paying you money. This is when you start making sensible business decisions and avoid assumptions"_ 
+
+
+
+#### The 7 Pre-Launch Tasks
+
+_"Don't bother with tactics to 'find your ideal market' or 'create your unique selling proposition' or 'practice your elevator pitch'. These activities are pointless before you launch because they are based on assumptions."_
+
+Schedule
+
+- **Day 1** - Come up with an idea
+- **Day 2** - Build an MVP
+- **Day 3** - Create a business name
+- **Day 4** - Need a landing page or some sort of online presence
+- **Day 5** - Get your business in front of people for free
+- **Day 6** - Determine what success means how to measure it. Set goals and plan to make changes if goals aren't met
+- **Day 7** - Launch!
+
+
+
+#### Day 1 - The 9 Elements of a Great Bootstrap Business
+
