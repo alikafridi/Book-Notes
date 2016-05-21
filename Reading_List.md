@@ -35,8 +35,8 @@
 - Beyond The Blog: Brad Feld's Burning Entrepreneur: How to Launch, Fund, and Set
 - Tao Te Ching
 - The Alchemist
+- Meditations by Marcus Aurelius
 - The Study Quran: A New Translation and Commentary by Seyyed Hossein Nasr
-
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
 
 
