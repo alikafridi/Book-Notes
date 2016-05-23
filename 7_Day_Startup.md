@@ -332,5 +332,43 @@ The following are all ideas to market your business for free in a just a few day
 
 
 
+#### Day 6 - Set Targets
+
+Focus on the One Metric That Matters (OMTM) at different stages in your business.
+
+Set realistic goals that are not too aggressive. Set goals for what you would like to achieve initially and how much growth you would like to see for the next 3-6 months.
+
+A good metric is MRR (Monthly Recurring Revenue). 
+
+Some general principles for setting your OMTM:
+
+- Make it a financial metric, not a vanity metric like website visits or Facebook likes
+- Pay attention to who's signing up. Your friends are different from general public. *Save you excitement until you land people you don't know as customers*
+- Set a goal for the first month and re-visit it each month afterwards. Track performance
+- Don't measure something that no longer represents an important metric for your startup. OMTMs change overtime.
+
+##### Day 6 Task
+
+- Create a spreadsheet that covers the first few months in business, the number of signups, revenue, estimated costs, and monthly growth
 
 
+
+#### Day 7 - Launch 
+
+Shortlist of things to do:
+
+- Put up live site with payment button. Have as many ways as possible for customers to contact you.
+- Email anyone on the pre-launch list. Thank them for interest and ask them to sign up if your offering is suitable
+- Post updates to social networks and any forums or groups that let you
+- Update your signatures/profiles with a mention of your business and a specific call to action
+- Tell friend and press contacts to share it
+- Thank people who have helped you get to launch day
+- Continue with influencer outreach. Launch day may be too soon to ask a favor, but you can mention it.
+- Publish a post on your blog about the launch. 
+- Ask entrepreneurial friends to share the news
+- Go back over marketing plan and start executing on each of the items
+- Tag @thedannorris or #7daystartup on social media
+
+#### Day 7 Task
+
+- Launch and start executing your marketing plan
