@@ -245,3 +245,67 @@ Paypal is a simple easy way to collect money early.
 ##### Day 4 Task
 
 - Build yourself a website. 
+
+
+
+#### Day 5 - 10 Ways to Market Your Business
+
+The following are all ideas to market your business for free in a just a few days:
+
+1. Create Content on Your Site - 
+
+   - Publish blog posts that interest those that might be potential customers. 
+
+
+   - This may not be the fastest way to get customers, but it's cheap, fun, and helps other people
+   - Some notes:
+     - Create in-depth content based around the customer problem your business solves
+     - Make content as actionable and useful to your target audience as possible
+     - It can't be boring. Don't create content around you area of expertise
+     - Optimize site for email opt-ins
+     - Don't worry about SEO, focus on creating useful content
+     - Try a bunch of content mediums to see which one gets you the most traction
+
+2. Start Sending emails
+
+   - Build an email list before you launch and continually look at ways to grow it
+   - Make sure to send high quality, relevant information. Don't try to sell everyone on the email list
+   - Give away something relevant and valuable to people to get them onto the list. Free software, plugins, templates, ebooks, and training courses are examples. 
+   - Keep all emails personal and encourage people to reply to them. Replies are a great way to learn directly what customers want.
+   - Mailchimp.com is the easiest way to get started with sending emails
+
+3. Podcasting
+
+   - Great way to network with people
+   - Some benefits of podcasting:
+     - It's easy to do
+     - Hearing your voice builds people's trust significantly
+     - It opens you up to new marketing channels like iTunes 
+     - Allows you to have 1 on 1 time with people in situations you could not usually reach them - when the listener is driving, at the gym, etc.
+     - It gives you authority in your field
+   - You should also go on other people's podcasts - when you have your own you might be invited to speak on other people's. You can also ask podcasters if you can appear on their podcast.
+
+4. Forums and Online Groups
+
+   - Great way to meet potential customers interested in your solutions
+   - It's smart to become a member of a paid group in your niche. You'll find people who are especially interested in the space and are willing to pay.
+
+5. Guest Blogging
+
+   - Great way to reach audiences that have already been created
+
+6. Listing Sites
+
+   - Use a listing site that might send customers to your site
+     - BetaList, KillerStartups.com, Product Hunt, Appvita.com, Cloudli.st are examples
+
+7. Webinars
+
+   - ​
+
+8. Presenting
+
+9. Doing Free Work
+
+10. Media Coverage
+

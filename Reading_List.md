@@ -30,13 +30,15 @@
 - Elon Musk by Ashlee Vance
 - Startup Communities: Building an Entrepreneurial Ecosystem in your city
 - Born Standing Up
-- The 7 Day Startup by Dan Norris
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - Beyond The Blog: Brad Feld's Burning Entrepreneur: How to Launch, Fund, and Set
 - Tao Te Ching
 - The Alchemist
 - Meditations by Marcus Aurelius
 - The Study Quran: A New Translation and Commentary by Seyyed Hossein Nasr
+- Art of Negotiation
+- On China by Henry Kissinger
+- Startup Boards by Brad Feld
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
 
 
