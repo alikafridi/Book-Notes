@@ -301,11 +301,36 @@ The following are all ideas to market your business for free in a just a few day
 
 7. Webinars
 
-   - ​
-
 8. Presenting
+
+   - Organizing local, in-person events is a great strategy
+   - Local workshops, meetups, and conferences
+   - The events themselves can bring in profit, as well as leads and high-value clients
+   - Making the events in-person makes it more personal and creates stronger ties while cementing business relationships
 
 9. Doing Free Work
 
+   - You can do free work for influencers to get testimonials and referrals
+   - Offer a product/service for free to get people to post about it on social media and come back to purchase it again later
+   - Good way to get initial users
+   - *Note:* this is a way to spread the word, not a validation exercise. 
+
 10. Media Coverage
+
+    - If well targeted, it can lead directly to more customers. It can also add proof & credibility
+    - In order to get media coverage:
+      - Pull a list of relevant journalists to contact
+      - Get startup friends who have been featured to make intros to journalists who covered them
+      - Pay attention to parts of your business that are newsworthy
+      - Do whatever you can to be featured in media
+      - Talk about your business a lot
+      - Send articles about your websites to others
+
+##### Day 5 Task
+
+- Build a list of marketing techniques to be used. Put together a rough plan for the first 1-2 weeks after launch.
+
+
+
+
 
