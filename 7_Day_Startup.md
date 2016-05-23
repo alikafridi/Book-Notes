@@ -372,3 +372,35 @@ Shortlist of things to do:
 #### Day 7 Task
 
 - Launch and start executing your marketing plan
+
+
+
+#### Refine your business model
+
+Now the real work begins - hustle to get real paying customers and listen to their feedback. 
+
+Your business model will most likely be dictated by your customers. In order to achieve ongoing growth you need a self-sufficient business model. 
+
+You should build a business with growth in its DNA. The 5 criteria to do this are:
+
+1. **Profit Margins** - Have realistic profit margins factoring in wages and costs to run the business
+2. **Large Market** - You should target businesses that can become huge. This means different things to different people, for the author it means a $1M business or larger
+3. **Asset Building** - What are you working on today that will make you indestructible tomorrow
+4. **Simple business model** - Have a simple product and value proposition
+5. **Recurring or Predictable Revenue** - Makes it easy to see growth and predict revenues
+
+Instead of building a business that pays you a good wage, build a startup with the potential to grow into something big.
+
+
+
+#### 14 Business Rules to Live By
+
+1. **Test Every Assumption** - Keep an open mind
+
+2. **Solve Problems as they arise** - don't try to be too proactive trying to solve business problems
+
+3. **Do What you say you will do** - be true to your word. Deliver on promises
+
+4. **Benchmark against the best** - Once you're done with the first website 
+
+   ​
