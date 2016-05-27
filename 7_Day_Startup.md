@@ -2,12 +2,6 @@
 
 ##### by Dan Norris
 
-#### Foreword
-
-Dan's a natural born hustler, and _"it's this hustle that enabled him ot iterate, pivot, and brute force his way through multiple failed startup attempts and arrive at a startup success, WP Curve"_ .
-
-
-
 #### Preface
 
 _"You don't learn until you launch"_ 
@@ -102,7 +96,7 @@ _"You can't deliver on your whole grand vision, but you can launch something. Wh
 
 _"Don't bother with tactics to 'find your ideal market' or 'create your unique selling proposition' or 'practice your elevator pitch'. These activities are pointless before you launch because they are based on assumptions."_
 
-Schedule
+##### Schedule
 
 - **Day 1** - Come up with an idea
 - **Day 2** - Build an MVP
@@ -161,6 +155,8 @@ You should charge from Day 1, and charge the amount you expect to be paid for th
 
 
 
+
+
 #### Day 3 - Choose a business name
 
 Don't spend too much time picking a name, it is a distraction. You can always change it later. Chances are you'll pivot anyways so a names not too important. That said you shouldn't pick an awful name.
@@ -211,6 +207,8 @@ Come up with 10 names that aren't ridiculous, then apply the framework below to 
 
 
 
+
+
 #### Day 4 - Buid a website in one day for under $100
 
 The purpose of a landing page:
@@ -248,6 +246,8 @@ Paypal is a simple easy way to collect money early.
 
 
 
+
+
 #### Day 5 - 10 Ways to Market Your Business
 
 The following are all ideas to market your business for free in a just a few days:
@@ -257,16 +257,16 @@ The following are all ideas to market your business for free in a just a few day
    - Publish blog posts that interest those that might be potential customers. 
 
 
-   - This may not be the fastest way to get customers, but it's cheap, fun, and helps other people
-   - Some notes:
-     - Create in-depth content based around the customer problem your business solves
-     - Make content as actionable and useful to your target audience as possible
-     - It can't be boring. Don't create content around you area of expertise
-     - Optimize site for email opt-ins
-     - Don't worry about SEO, focus on creating useful content
-     - Try a bunch of content mediums to see which one gets you the most traction
+- This may not be the fastest way to get customers, but it's cheap, fun, and helps other people
+- Some notes:
+  - Create in-depth content based around the customer problem your business solves
+  - Make content as actionable and useful to your target audience as possible
+  - It can't be boring. Don't create content around you area of expertise
+  - Optimize site for email opt-ins
+  - Don't worry about SEO, focus on creating useful content
+  - Try a bunch of content mediums to see which one gets you the most traction
 
-2. Start Sending emails
+1. Start Sending emails
 
    - Build an email list before you launch and continually look at ways to grow it
    - Make sure to send high quality, relevant information. Don't try to sell everyone on the email list
@@ -274,7 +274,7 @@ The following are all ideas to market your business for free in a just a few day
    - Keep all emails personal and encourage people to reply to them. Replies are a great way to learn directly what customers want.
    - Mailchimp.com is the easiest way to get started with sending emails
 
-3. Podcasting
+2. Podcasting
 
    - Great way to network with people
    - Some benefits of podcasting:
@@ -285,50 +285,52 @@ The following are all ideas to market your business for free in a just a few day
      - It gives you authority in your field
    - You should also go on other people's podcasts - when you have your own you might be invited to speak on other people's. You can also ask podcasters if you can appear on their podcast.
 
-4. Forums and Online Groups
+3. Forums and Online Groups
 
    - Great way to meet potential customers interested in your solutions
    - It's smart to become a member of a paid group in your niche. You'll find people who are especially interested in the space and are willing to pay.
 
-5. Guest Blogging
+4. Guest Blogging
 
    - Great way to reach audiences that have already been created
 
-6. Listing Sites
+5. Listing Sites
 
    - Use a listing site that might send customers to your site
      - BetaList, KillerStartups.com, Product Hunt, Appvita.com, Cloudli.st are examples
 
-7. Webinars
+6. Webinars
 
-8. Presenting
+7. Presenting
 
    - Organizing local, in-person events is a great strategy
    - Local workshops, meetups, and conferences
    - The events themselves can bring in profit, as well as leads and high-value clients
    - Making the events in-person makes it more personal and creates stronger ties while cementing business relationships
 
-9. Doing Free Work
+8. Doing Free Work
 
    - You can do free work for influencers to get testimonials and referrals
    - Offer a product/service for free to get people to post about it on social media and come back to purchase it again later
    - Good way to get initial users
    - *Note:* this is a way to spread the word, not a validation exercise. 
 
-10. Media Coverage
+9. Media Coverage
 
-    - If well targeted, it can lead directly to more customers. It can also add proof & credibility
-    - In order to get media coverage:
-      - Pull a list of relevant journalists to contact
-      - Get startup friends who have been featured to make intros to journalists who covered them
-      - Pay attention to parts of your business that are newsworthy
-      - Do whatever you can to be featured in media
-      - Talk about your business a lot
-      - Send articles about your websites to others
+   - If well targeted, it can lead directly to more customers. It can also add proof & credibility
+   - In order to get media coverage:
+     - Pull a list of relevant journalists to contact
+     - Get startup friends who have been featured to make intros to journalists who covered them
+     - Pay attention to parts of your business that are newsworthy
+     - Do whatever you can to be featured in media
+     - Talk about your business a lot
+     - Send articles about your websites to others
 
 ##### Day 5 Task
 
 - Build a list of marketing techniques to be used. Put together a rough plan for the first 1-2 weeks after launch.
+
+
 
 
 
@@ -353,6 +355,8 @@ Some general principles for setting your OMTM:
 
 
 
+
+
 #### Day 7 - Launch 
 
 Shortlist of things to do:
@@ -369,9 +373,11 @@ Shortlist of things to do:
 - Go back over marketing plan and start executing on each of the items
 - Tag @thedannorris or #7daystartup on social media
 
-#### Day 7 Task
+##### Day 7 Task
 
 - Launch and start executing your marketing plan
+
+
 
 
 
@@ -396,11 +402,17 @@ Instead of building a business that pays you a good wage, build a startup with t
 #### 14 Business Rules to Live By
 
 1. **Test Every Assumption** - Keep an open mind
-
 2. **Solve Problems as they arise** - don't try to be too proactive trying to solve business problems
-
 3. **Do What you say you will do** - be true to your word. Deliver on promises
+4. **Benchmark against the best** - Once you've got some customers/validation, you should start benchmarking your product against the best in the industry
+5. **Learn from others and yourself** - Whatever issues you run into have probably been solved by someone before you. Look at what others have done or implement a quick decision and learn from real fata
+6. **Outlearn your competition** - Don't debate assumptions, learn from real data. "The companies that learn the quickest, win."
+7. **Always consider how your business looks without you** - What's the real profit margin in the business? How will it sustain itself and grow without you (the founder).
+8. **Look for sources of momentum** - Focus on the stuff that has momentum. 
+9. **Manage Motivation** - Your personal happiness and motivation are important keys to the business' success. If you're struggling with motivation, join a forum, find a co-founder, hire people to do the work you don't enjoy, and get back to what you like
+10. **Cull Difficult Customers** - Difficult customers will waste your time, kill your confidence, and destroy your motivation. Sniff out potentially difficult customer before sign-up and scare them off. Customers with high expectations are great because they push the business forward. Customers who are unreasonable however you can do without.
+11. **Focus on retention** - The only thing that kills a recurring business is more people leaving than are signing up. Ensure your churn is low. If users are leaving, ask them why they chose to leave.
+12. **Avoid Short-Term Thinking** - Patience is important when launching your business. 
+13. **Focus on Product** - Improve the customer experience and product
+14. **Love Your Work**
 
-4. **Benchmark against the best** - Once you're done with the first website 
-
-   ​
