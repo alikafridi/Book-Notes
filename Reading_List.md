@@ -1,6 +1,6 @@
 ####Books to Read:
+- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - The Intelligent Investor
-- Zero to One
 - The E-Myth Revisited
 - Influence: The psychology of persuasion
 - 22 Immutable Laws of Marketing
@@ -15,8 +15,6 @@
 - Losing my virginity by Richard Branson
 - The Startup Game by William Draper III
 - Founders at Work by Jessica Livingston
-- The Hard Thing about hard things by Ben Horowitz
-- Hooked: How to build habit forming products
 - Growth Hacker Marketing by Ryan Holiday
 - The Art of Socai Media
 - Traction: A Startup's guide to getting customers
@@ -30,7 +28,6 @@
 - Elon Musk by Ashlee Vance
 - Startup Communities: Building an Entrepreneurial Ecosystem in your city
 - Born Standing Up
-- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - Beyond The Blog: Brad Feld's Burning Entrepreneur: How to Launch, Fund, and Set
 - Tao Te Ching
 - The Alchemist
@@ -41,11 +38,3 @@
 - Startup Boards by Brad Feld
 - [Unscalable](http://unscalablebook.com/)
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
-
-
-####Books to go back and add notes on:
-- How to Win Friends and Influence People (Dale Carnegie)
-- Mastering the VC Game (Jeff Bussgang)
-- Andrew Carnegie's autobiography
-- The Lean Startup
-- The 4 Hour workweek
