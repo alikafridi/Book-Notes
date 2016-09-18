@@ -38,4 +38,5 @@
 - Startup Boards by Brad Feld
 - [Unscalable](http://unscalablebook.com/)
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
+- Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
 - Books recommended here: http://fourhourbook.club/
