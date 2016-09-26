@@ -9,3 +9,4 @@ Other's notes on books I read where I didn't take notes:
 - Andrew Carnegie's autobiography
 - The Lean Startup
 - The 4 Hour workweek
+- Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal

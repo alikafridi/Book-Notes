@@ -4,6 +4,7 @@
 - The E-Myth Revisited
 - Influence: The psychology of persuasion
 - 22 Immutable Laws of Marketing
+- The Everything Store: Jeff Bezos and the Age of Amazon
 - The Four Steps to Epiphany
 - A General Theory Love
 - Whiskey Tango Foxtrot
@@ -16,7 +17,7 @@
 - The Startup Game by William Draper III
 - Founders at Work by Jessica Livingston
 - Growth Hacker Marketing by Ryan Holiday
-- The Art of Socai Media
+- The Art of Social Media
 - Traction: A Startup's guide to getting customers
 - Traction: Get a grip on your business
 - The Design of Everyday things
@@ -38,5 +39,5 @@
 - Startup Boards by Brad Feld
 - [Unscalable](http://unscalablebook.com/)
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
-- Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
+- The Art of War by Sun Tzu
 - Books recommended here: http://fourhourbook.club/
