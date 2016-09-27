@@ -1,4 +1,6 @@
 ####Books to Read:
+- Alex Ferguson: My Autobiography
+- The Master Switch
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - The Intelligent Investor
 - The E-Myth Revisited
@@ -10,7 +12,6 @@
 - Whiskey Tango Foxtrot
 - Contagious: Why Things Catch On
 - Cable Cowboy: John Malone and the rise of the modern cable business
-- Alex Ferguson: My Autobiography
 - The Little Book of Talent: 52 tips to improving your skills
 - Outliers by Malcolm Gladwell
 - Losing my virginity by Richard Branson
