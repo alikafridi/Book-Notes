@@ -38,6 +38,7 @@
 - Art of Negotiation
 - On China by Henry Kissinger
 - Startup Boards by Brad Feld
+- The Singularity Is Near: When Humans Transcend Biology 
 - [Unscalable](http://unscalablebook.com/)
 - The books recommended on Ken Norton's blog: https://www.kennorton.com/essays/books-for-product-managers.html
 - The Art of War by Sun Tzu
