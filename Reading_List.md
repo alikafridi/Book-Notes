@@ -1,6 +1,7 @@
 ####Books to Read:
 - Alex Ferguson: My Autobiography
 - The Master Switch
+- Steve Jobs by Walter Isaacson
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
 - The Intelligent Investor
 - The E-Myth Revisited
