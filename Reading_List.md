@@ -1,5 +1,8 @@
 ####Books to Read:
 - Alex Ferguson: My Autobiography
+- Security Analysis by Benjamin Graham
+- The Intelligent Investor by Benjamin Graham
+- Warren Buffett Letters to Shareholders - http://www.berkshirehathaway.com/letters/letters.html
 - The Master Switch
 - Steve Jobs by Walter Isaacson
 - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
