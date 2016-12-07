@@ -1,4 +1,5 @@
 ####Books to Read:
+- https://blog.ycombinator.com/ycs-winter-reading-list/
 - Alex Ferguson: My Autobiography
 - Security Analysis by Benjamin Graham
 - The Intelligent Investor by Benjamin Graham
