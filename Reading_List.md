@@ -1,4 +1,8 @@
 ####Books to Read:
+- [Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World](https://www.amazon.com/gp/product/0143111485?tag=randohouseinc7986-20)
+- Napoleon's Glance
+- Sapiens
+- The Singularity is near
 - https://blog.ycombinator.com/ycs-winter-reading-list/
 - Alex Ferguson: My Autobiography
 - Security Analysis by Benjamin Graham
