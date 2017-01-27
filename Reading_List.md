@@ -1,5 +1,6 @@
 ####Books to Read:
 - [Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World](https://www.amazon.com/gp/product/0143111485?tag=randohouseinc7986-20)
+- Mastering Bitcoin
 - Napoleon's Glance
 - Sapiens
 - The Singularity is near
