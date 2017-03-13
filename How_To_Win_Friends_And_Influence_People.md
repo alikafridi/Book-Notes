@@ -14,7 +14,7 @@
 - **Principle 5** - Talk in terms of the other person's interests
 - **Principle 6** - Make the other person feel important - and do it sincerely.
 
-#### Part 3 - Win people to your way of thinkins
+#### Part 3 - Win people to your way of thinking
 - **Principle 1** - The only way to get the best of an argument is to avoid it
 - **Principle 2** - Show respect for the other person's opinions. Never say, "You're wrong."
 - **Principle 3** - If you are wrong, admit it quickly and emphatically
